@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srinivasu16
 - 🌱 I’m currently learning Full Stack Development
-- ask me about ReactJS,NodeJS,ExpressJS,MongoDB
+- 💬 Ask me about ReactJS,NodeJS,ExpressJS,MongoDB
 - 📫 How to reach me srinivasumurali9@gmail.com
 
 <!---
