@@ -37,9 +37,9 @@ Malla Reddy Engineering College & Management Science
 ---
 
 ## 📜 Certifications
-✅ **Data Analytics Certification** - Excelr Institute, Bangalore
-✅ **Data Analytics Certification** - Excelr Institute, Bangalore
-✅ **Python 101 for Data Science** - Cognitiveclass.ai (IBM)  
+- ✅ **Data Analytics Certification** - Excelr Institute, Bangalore
+- ✅ **Data Analytics Certification** - Excelr Institute, Bangalore
+- ✅ **Python 101 for Data Science** - Cognitiveclass.ai (IBM)  
 
 ---
 
